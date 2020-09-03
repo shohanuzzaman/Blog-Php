@@ -1,0 +1,16 @@
+
+For Admin Panel
+
+URL - http://localhost/ (your directory) /admin.php
+
+ADMIN PANEL IS ACCESSED FROM  "admin.php"
+
+
+
+DON'T FORGET TO CREATE A DATABASE NAMING "blog" AND IMPORT THE SQL FILE AND RUN.
+(Database sql file is inside "database" Folder!! )
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
